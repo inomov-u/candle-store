@@ -1,6 +1,6 @@
 # Candle Store Website
 
-This is a full-stack e-commerce website built for a small candle business. The platform allows customers to browse products, view details, and place orders, while providing the business owner with an admin system to manage products and inventory.
+This is a full-stack e-commerce website built for a candle business. The platform allows customers to browse products, view details, and place orders, while providing the business owner with an admin system to manage products and inventory.
 
 ## 🧾 Purpose
 
