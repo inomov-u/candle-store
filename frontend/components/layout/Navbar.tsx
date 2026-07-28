@@ -17,3 +17,22 @@ interface NavigationItem {
   href: string;
 }
 
+const navigationItems: NavigationItem[] = [
+  {
+    label: "Home",
+    href: "/",
+  },
+  {
+    label: "Shop",
+    href: "/products",
+  },
+  {
+    label: "About",
+    href: "/about",
+  },
+  {
+    label: "Contact",
+    href: "/contact",
+  },
+];
+
